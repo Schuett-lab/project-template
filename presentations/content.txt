@@ -1,0 +1,11 @@
+In this folder, you should place all contents for conferences and 
+meetings, i.e. talks, posters, abstracts etc. Name the files starting with 
+the date (at least the year) and a name for the place where presentations 
+is/was/will be given.
+
+This folder is not synchronized to Github or version control, but should 
+be synchronized in a shareable manner through OneDrive or a similar 
+service such that it is available and synchronized to all your devices and 
+can be given to other lab members easily.
+
+Upon completion of the project this folder will be archived unpublished.

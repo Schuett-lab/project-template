@@ -1,0 +1,8 @@
+This folder should contain all figures produced for the project. 
+
+This folder is not synchronized to Github or version control, but should 
+be synchronized in a shareable manner through OneDrive or a similar 
+service such that it is available and synchronized to all your devices and 
+can be given to other lab members easily.
+
+Upon completion of the project this folder will be archived unpublished.

@@ -1,0 +1,16 @@
+In this folder you should place data that is collected for this project in 
+raw format, i.e. excatly as they were first recorded, but without 
+personally identifiable information! 
+This folder applies for anything that is of an easy to synchronize size, 
+i.e. the total size of this folder should be < 1Gb. If you have more data 
+than that, we should organize things properly. 
+
+For purely theoretical projects this folder should be empty.
+
+This folder will not be synchronized to Github usually, but this should be 
+synchronized to machines you work on regularly, e.g. through OneDrive and 
+this synchronization should be shareable, i.e. you should be able to give 
+access to another lab member.
+
+Upon completion of the project the contents of this folder will be part of 
+the record that we publish through OSF or similar means.

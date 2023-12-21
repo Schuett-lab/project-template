@@ -1,0 +1,6 @@
+In this folder you should put the code for your project. This is the main 
+content that will go to Github. Depending on the complexity of your code 
+this may be split by programming language, subprojects etc.
+
+Set things up such that you can run your code from anywhere if it is in 
+this folder eventually.

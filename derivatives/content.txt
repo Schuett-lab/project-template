@@ -1,0 +1,11 @@
+In this folder you should put any processed versions of your data. Common 
+examples are preprocessing steps of recorded data and paramter fits of 
+models. The data structure should match the one in the data folder.
+
+This folder is not synchronized to Github or version control, but should 
+be synchronized in a shareable manner through OneDrive or a similar 
+service such that it is available and synchronized to all your devices and 
+can be given to other lab members easily.
+
+Upon completion of the project this folder with its contents will be part 
+of the materials we publish through OSF or similar means.

@@ -1,0 +1,7 @@
+In this folder you put tests of your code. This should be a machine 
+runnable folder, i.e. things that are run by pytest or similar tools for 
+other languages automatically. This is not for your computer science 
+experiments, debugging, etc.
+
+This folder should be pure code and as such should be synchronized through 
+Github under version control.
